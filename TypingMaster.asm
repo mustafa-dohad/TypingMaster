@@ -1,7 +1,3 @@
-#CS231258 SHAFAY MEHMOOD
-#CS221027 MUSTAFA MURTAZA
-#CS231156 MUHAMMAD ATEEB UR REHMAN
-#CS231143 MUHAMMAD ABUZAR TARIQ
 .data
 # Strings and prompts for user interface
 welcomePrompt: .asciiz "\nWelcome to the Typing Master Game.\n"
